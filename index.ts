@@ -29,4 +29,4 @@ if (answer.operator ===  "Addition") {
     console.log("please select valid operator")
 }
 
-console.log("THE END")
+console.log('THE END')
